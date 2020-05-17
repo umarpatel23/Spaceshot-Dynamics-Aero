@@ -13,6 +13,9 @@ propellant_mass = [9.425, 9.39557, 9.30245, 9.13611, 8.27327, 5.98604, 4.5069, 3
 
 g = 9.8
 
+#Launch angle/hangle to be determined
+#theta = 
+
 # Dry mass "m"
 m = 11
 # coefficient of drag below, will need to calculate
